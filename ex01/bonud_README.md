@@ -265,10 +265,9 @@ chmod +x ex01/csrf_exploit.py
 
 ### Validation Process
 
-1. Manual vulnerability demonstration (mandatory part)
-2. Automated script validation (bonus part)
-3. Cross-verification of findings
-4. Comprehensive reporting
+1. Automated script validation (bonus part)
+2. Cross-verification of findings
+3. Comprehensive reporting
 
 ## Conclusion
 
